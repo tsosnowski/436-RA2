@@ -1,7 +1,7 @@
 # 436-RA2
 
 
-# Week 5. Research Assignment 3
+# Week 5. Research Assignment 2
 
 Performance benchmarks comprise an important component of this course. We draw examples from academic research and industry studies. This assignment involves the construction of a performance benchmark across popular Go and/or Python backend frameworks.
 
